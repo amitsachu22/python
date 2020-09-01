@@ -1,0 +1,139 @@
+{
+   "id":"4cf951f7-9fc9-45e0-8546-2da1b31effd7",
+   "status":"ACTIVE",
+   "partner":{
+      "id":"834df8fc-6e81-406b-ae50-79365b4cc099",
+      "label":"eShopWorld"
+   },
+   "integrator":{
+      "id":"91c4647f-809c-4e3b-a70f-6e1286d4a176",
+      "label":"eShopWorld"
+   },
+   "marketplace":"MX",
+   "language":"en",
+   "productCode":"CD4570-300",
+   "customizable":"false",
+   "size":{
+      "nikeSize":"9",
+      "localizedSize":"9",
+      "vendorSize":"9"
+   },
+   "gtin":"00193154366433",
+   "globalProductId":"4cf951f7-9fc9-45e0-8546-2da1b31effd7",
+   "styleCode":"CD4570",
+   "colorCode":"300",
+   "labelName":"Nike Zoom Fly 3 Premium Men's Running Shoe",
+   "colorDescription":"Black/Metallic Silver/Wolf Grey/Black",
+   "width":"Regular",
+   "commerceDates":{
+      "startDate":"2019-06-09T20:25:00.000+0000"
+   },
+   "productStructureCategorization":{
+      "retailCategory":{
+         "id":"b990f015-bd95-42be-bf3a-cfcb12569c77",
+         "label":"Nike Sportswear"
+      },
+      "division":{
+         "id":"aaf5eae1-6889-4638-927a-527d511483a5",
+         "label":"FOOTWEAR DIVISION"
+      },
+      "retailGenderAge":{
+         "id":"92cae888-59c1-404b-ab13-0c94fe20b1f6",
+         "label":"Mens"
+      },
+      "retailClass":{
+         "id":"51921a7f-05d2-46fe-8b36-8822015cecff",
+         "label":"Shox"
+      }
+   },
+   "weightsAndMeasures":{
+      "weightUnits":"kg",
+      "dimensionalUnits":"cm",
+      "grossPackageWeight":0.74,
+      "netWeight":0.74,
+	  "dimensionalWeight": null,
+      "packageLength":33.5,
+      "packageWidth":20.7,
+      "packageHeight":11.5,
+	  "packageQuantity": null
+   },
+   "prices":[
+      {
+         "type":"MSRP",
+         "amount":3349,
+         "currencyCode":"MXN"
+      },
+      {
+         "type":"Current Retail Price",
+         "amount":3349,
+         "currencyCode":"MXN"
+      }
+   ],
+   "copy":{
+      "twoLineName":{
+         "line1":"Nike Zoom Fly 3 Premium",
+         "line2":"Men's Running Shoe"
+      },
+      "description":"<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>RESPONSIVE CUSHIONING AND SUPPORT.</b></p><br><p>The Nike Shox R4 offers the ultimate in responsive cushioning with 4 columns of support under the heel. Its lightweight, synthetic and textile upper is soft and durable, and perforations near the toes and around the ankle enhance breathability.</p><br><p><b>Benefits</b></p><ul><li>Synthetic leather and textile upper for durability.</li><li>Lightweight Phylon midsole cushions the forefoot.</li><li>Rubber-modified Waffle outsole provides great traction.</li></ul></div></div>"
+   },
+   "assets":[
+      {
+         "assetType":"image",
+         "defaultUrl":"http://images.nike.com/is/image/DotCom/CD4570_300_A_PREM",
+         "format":"image/png",
+         "order":1
+      },
+      {
+         "assetType":"image",
+         "defaultUrl":"http://images.nike.com/is/image/DotCom/CD4570_300_B_PREM",
+         "format":"image/png",
+         "order":2
+      }
+   ],
+   "customsDetails":{
+      "description":"MENS RUNNING LOW TOP",
+      "locationDetails":[
+         {
+            "targetCountry":"AE",
+            "hsCode":"6404110000",
+            "manufacturedCountryOfOrigin":"VN",
+            "materialContents":[
+               {
+                  "name":"liningPrimary",
+                  "description":"liningPrimary",
+                  "value":"Polyester 100"
+               },
+               {
+                  "name":"outsoleMaterial",
+                  "description":"outsoleMaterial",
+                  "value":"Rubber 90/Plastic 40"
+               }
+            ]
+         },
+         {
+            "targetCountry":"MX",
+            "hsCode":"6404110000",
+            "manufacturedCountryOfOrigin":"VN",
+            "materialContents":[
+               {
+                  "name":"liningPrimary",
+                  "description":"liningPrimary",
+                  "value":"Polyester 100"
+               },
+               {
+                  "name":"outsoleMaterial",
+                  "description":"outsoleMaterial",
+                  "value":"Rubber 90/Plastic 40"
+               }
+            ]
+         }
+      ]
+   },
+   "legacy":{
+      "pid":12789418,
+      "skuId":24121154
+   },
+   "creationDate":"2019-09-19T22:48:59.907+0000",
+   "modificationDate":"2019-11-21T12:47:32.000+0000",
+   "resourceType":"/partner/skus"
+}
